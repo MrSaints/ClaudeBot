@@ -1,5 +1,6 @@
 [
     "hubot-ab",
+    "hubot-rbac",
     "hubot-archive-today",
     "hubot-auth",
     "hubot-diagnostics",
@@ -9,6 +10,7 @@
     "hubot-help",
     "hubot-hitbox",
     "hubot-links",
+    "hubot-longtext",
     "hubot-mail",
     "hubot-paste",
     "hubot-redis-brain",
